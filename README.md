@@ -1,1 +1,2 @@
-# neural-network-week-1-assignment
+Name: Guru Raghavender
+ID: 700766339
